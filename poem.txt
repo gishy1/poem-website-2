@@ -1,0 +1,3 @@
+Git hug is not a hug.
+Hello nice to meet you.
+How are you?
